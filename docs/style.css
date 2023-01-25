@@ -46,6 +46,17 @@ h2 {
     
 }
 
+h3 {
+
+    font-size: 850%;
+    text-shadow: 200px;
+    color: #ffffff;
+    text-shadow: 5px 10px 10px rgba(0, 0, 0, 0.75),
+    -3px 10px 12px rgba(0, 0, 0, 0.75);
+    
+}
+
+
 p {
 
     font-size: 200%;
@@ -80,4 +91,17 @@ div {
     background-size: 100%;
     padding: 200px;
     background-repeat: no-repeat;
+}
+
+.clients {
+    background-image: url("../assets/gradient.gif");
+    background-size: 100%;
+
+}
+
+.clientimage {
+
+    width: 55rem;
+    height: 16rem;
+
 }
