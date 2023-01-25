@@ -1,0 +1,83 @@
+body {
+    
+    background-position: center;
+    min-height: 100vh;
+
+  }
+  
+  @media (min-width: 600px) {
+    body {
+      padding: 0;
+      font-family: Arial;
+    }
+  }
+
+header {
+    background-image: url("../assets/gradient.gif");
+    background-size: 100%;
+    display: flex;
+    justify-content: center;
+    
+}
+
+  img {
+    height: 20.5em;
+  }
+
+h1 {
+
+    font-size: 550%;
+    text-shadow: 200px;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    text-shadow: 5px 10px 10px rgba(0, 0, 0, 0.75),
+    -3px 10px 12px rgba(0, 0, 0, 0.75);
+    
+}
+
+h2 {
+
+    font-size: 750%;
+    text-shadow: 200px;
+    color: #ffffff;
+    text-shadow: 5px 10px 10px rgba(0, 0, 0, 0.75),
+    -3px 10px 12px rgba(0, 0, 0, 0.75);
+    
+}
+
+p {
+
+    font-size: 200%;
+    color: rgb(255, 255, 255);
+    text-shadow: 5px 10px 10px rgba(0, 0, 0, 0.75),
+    -3px 10px 12px rgba(0, 0, 0, 0.75);
+}
+
+div {
+
+    background-image: url("../assets/present.jpg");
+    background-size: 100%;
+    padding: 50px;
+    background-repeat: no-repeat;
+}
+
+.award {
+    height:73ch;
+}
+
+.text2 {
+
+    background-image: url("../assets/award.jpg");
+    background-size: 360%;
+    padding: 200px;
+    background-repeat: no-repeat;
+}
+
+.text3 {
+
+    background-image: url("../assets/person.jpg");
+    background-size: 100%;
+    padding: 200px;
+    background-repeat: no-repeat;
+}
