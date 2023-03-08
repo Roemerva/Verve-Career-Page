@@ -13,7 +13,7 @@ body {
   }
 
 header {
-    background-image: url("../assets/gradient.gif");
+    background-image: url("/assets/gradient.gif");
     background-size: 100%;
     display: flex;
     justify-content: center;
@@ -67,7 +67,7 @@ p {
 
 div {
 
-    background-image: url("../assets/present.jpg");
+    background-image: url("/assets/present.jpg");
     background-size: 100%;
     padding: 50px;
     background-repeat: no-repeat;
@@ -79,7 +79,7 @@ div {
 
 .text2 {
 
-    background-image: url("../assets/award.jpg");
+    background-image: url("/assets/award.jpg");
     background-size: 360%;
     padding: 200px;
     background-repeat: no-repeat;
@@ -87,14 +87,14 @@ div {
 
 .text3 {
 
-    background-image: url("../assets/person.jpg");
+    background-image: url("/assets/person.jpg");
     background-size: 100%;
     padding: 200px;
     background-repeat: no-repeat;
 }
 
 .clients {
-    background-image: url("../assets/gradient.gif");
+    background-image: url("/assets/gradient.gif");
     background-size: 100%;
 
 }
